@@ -13,3 +13,5 @@ Temporary repo for eSolia.pro launch
 9. Make another branch for another post, in your fork.  
 
 Note, there will be a different repo for this site, once the skeleton is done. This is just to get started. 
+
+![esolia github 2015-05-28_12-12-03](https://cloud.githubusercontent.com/assets/512328/7852124/bab083ec-0533-11e5-9a7d-b40641327d58.png)
